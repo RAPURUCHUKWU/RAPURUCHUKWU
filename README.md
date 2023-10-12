@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAPURUCHUKWU ONUORAH.
+- 👋 Hi, I’m @RAPURUCHUKWU OBIORA ONUORAH.
 - 👀 I’m interested in CODING.
 - 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT,PYTHON.
 - 💞️ I’m looking to collaborate on CODING.

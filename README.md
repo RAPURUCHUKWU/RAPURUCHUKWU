@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAPURUCHUKWU ONUORAH.
 - 👀 I’m interested in CODING.
-- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT.
+- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT,PYTHON.
 - 💞️ I’m looking to collaborate on CODING.
 - 📫 How to reach me...contact 09164197823,08160122690
 - Gmail address... www.sirability4luv@gmail.com
